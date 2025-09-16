@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm:*)",
+      "Read(//c/Users/Felipe Weiger/OneDrive/Cursor projects/**)",
+      "Bash(npm install:*)",
+      "Bash(tree:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(npm run build:*)",
+      "WebSearch",
+      "Bash(npm run dev:*)",
+      "Bash(git remote add:*)",
+      "WebFetch(domain:github.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
